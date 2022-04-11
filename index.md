@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "欢迎欢迎"
 ---
 
-I'm glad you are here. I plan to talk about ...
+很高兴你来了，我先说的是 ...
